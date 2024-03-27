@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="50%"></p>
+
+[<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kang-theo&theme=react" width="50%"></div>](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
+<!-- Top Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang-theo&hide=Emacs%20Lisp,Groff,Makefile,Vim%20Script,Python,PostScript,TeX,Shell,Stylus,SRecode%20Template,Common%20Lisp,NewLisp,Perl)](https://github.com/kang-theo/github-readme-stats)
+-->
