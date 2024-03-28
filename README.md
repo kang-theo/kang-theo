@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="80%"></p>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="70%"></p>
 
 [<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kang-theo&theme=react" width="80%"></div>](https://github.com/Ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kang-theo&theme=react" width="70%"></div>](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 <!-- Top Language
