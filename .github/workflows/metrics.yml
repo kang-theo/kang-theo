@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 1 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -25,15 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          template: repository
-          filename: metrics.repository.svg
-          user: kang-theo
-          repo: kang-theo
-          plugin_lines: yes
-          plugin_followup: yes
-          plugin_projects: yes
-          plugin_projects_repositories: lowlighter/metrics/projects/1
-          # template: classic
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           # Most used languages
@@ -58,3 +50,5 @@ jobs:
           # plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           # plugin_wakatime_url: https://wakatime.com
           # plugin_wakatime_user: current
+
+# Repository view: https://github.com/lowlighter/metrics/blob/master/source/templates/repository/README.md
