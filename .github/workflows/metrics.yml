@@ -25,7 +25,15 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          template: classic
+          template: repository
+          filename: metrics.repository.svg
+          user: kang-theo
+          repo: kang-theo
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_projects: yes
+          plugin_projects_repositories: lowlighter/metrics/projects/1
+          # template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           # Most used languages
