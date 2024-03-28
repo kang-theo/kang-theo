@@ -27,6 +27,7 @@ jobs:
           # Options
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_timezone: Asia/Shanghai
           # Most used languages
           plugin_languages: yes
@@ -50,5 +51,3 @@ jobs:
           # plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           # plugin_wakatime_url: https://wakatime.com
           # plugin_wakatime_user: current
-
-          
