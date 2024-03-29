@@ -3,12 +3,11 @@
     <img align="left" src="/github-metrics.svg" alt="Metrics" width="50%">
     <img align="left" src="https://moon-svg.minung.dev/moon.svg?size=54&theme=basic&rotate=0" alt="moon.svg">
   </a>
-<h3>Hi there 👋</h3>
-<ul>
-<li> I’m currently learning Next.js.</li> 
-<li> I’m interested in AIGC projects.</li>
-</ul>
+  
+  <h3>Hi there 👋</h3>
+  <strong">I’m currently learning Next.js full-stack. <br>I’m interested in AIGC projects.</strong>
 
+  <h4>I am learning:</h4>
   <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="js">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts">
