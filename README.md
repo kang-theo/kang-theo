@@ -19,14 +19,15 @@
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="scss">
-  <img src="https://img.shields.io/badge/Python-3572a5?style=for-the-badge&logo=python&logoColor=white" alt="python">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="mysql">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="aws">
+<!--   <img src="https://img.shields.io/badge/Python-3572a5?style=for-the-badge&logo=python&logoColor=white" alt="python"> -->
+<!--   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="mysql"> -->
+<!--   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb"> -->
+<!--   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="aws"> -->
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="bootstrap">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="tailwind-css">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3">
 </KANG-THEO>
+<br><br>
 <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=kang-theo&theme=react" width="45%">
 
 <!-- Top Language
