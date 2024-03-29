@@ -3,12 +3,12 @@
     <img align="right" src="/github-metrics.svg" alt="Metrics" width="50%">
 <!--     <br><br> -->
 <!--     <img align="" src="https://github-readme-activity-graph.vercel.app/graph?username=kang-theo&theme=react" width="46%"> -->
-    <img align="left" src="https://moon-svg.minung.dev/moon.svg?size=100&theme=basic&rotate=0" alt="moon.svg">
+    <img align="left" src="https://moon-svg.minung.dev/moon.svg?size=60&theme=basic&rotate=0" alt="moon.svg">
   </a>
 <h3>Hi there 👋</h3>
 <ul>
-<li>🌱 I’m currently learning Next.js</li> 
-<li>👯 I’m looking to collaborate on AIGC projects</li>
+<li> I’m currently learning Next.js</li> 
+<li> I’m interested in AIGC projects</li>
 </ul>
 
   <p align="center">
