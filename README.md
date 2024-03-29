@@ -1,17 +1,15 @@
 <KANG-THEO>
   <a href="https://github.com/txstc55/kang-theo">
     <img align="right" src="/github-metrics.svg" alt="Metrics" width="50%">
-<!--     <br><br> -->
-<!--     <img align="" src="https://github-readme-activity-graph.vercel.app/graph?username=kang-theo&theme=react" width="46%"> -->
-    <img align="left" src="https://moon-svg.minung.dev/moon.svg?size=60&theme=basic&rotate=0" alt="moon.svg">
+    <img align="left" src="https://moon-svg.minung.dev/moon.svg?size=54&theme=basic&rotate=0" alt="moon.svg">
   </a>
 <h3>Hi there 👋</h3>
 <ul>
-<li> I’m currently learning Next.js</li> 
-<li> I’m interested in AIGC projects</li>
+<li> I’m currently learning Next.js.</li> 
+<li> I’m interested in AIGC projects.</li>
 </ul>
 
-  <p align="center">
+  <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="js">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
@@ -29,7 +27,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="tailwind-css">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3">
 </KANG-THEO>
-<img align="" src="https://github-readme-activity-graph.vercel.app/graph?username=kang-theo&theme=react" width="46%">
+<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=kang-theo&theme=react" width="45%">
 
 <!-- Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang-theo&hide=Emacs%20Lisp,Groff,Makefile,Vim%20Script,Python,PostScript,TeX,Shell,Stylus,SRecode%20Template,Common%20Lisp,NewLisp,Perl)](https://github.com/kang-theo/github-readme-stats)
