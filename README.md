@@ -3,6 +3,12 @@
     <img align="left" src="/github-metrics.svg" alt="Metrics" width="50%">
     <img align="left" src="https://moon-svg.minung.dev/moon.svg?size=50&theme=basic&rotate=0" alt="moon.svg">
   </a>
+
+<!--
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkang-theo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
+  </a>
+-->
   
   <h3>Hi there 👋</h3>
   I’m currently learning Next.js full-stack. <br>I’m interested in AIGC projects.
