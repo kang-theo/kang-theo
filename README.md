@@ -32,6 +32,10 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="tailwind-css">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp">
+<!-- bages collection: 
+    https://home.aveek.io/GitHub-Profile-Badges/
+    https://dev.to/envoy_/150-badges-for-github-pnk#orm 
+-->
 </KANG-THEO>
 <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=kang-theo&theme=react" width="45%">
 
