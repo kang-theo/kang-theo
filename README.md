@@ -11,9 +11,9 @@
 -->
   
   <h3>Hi there 👋</h3>
-  I’m currently learning Next.js full-stack. <br>I’m interested in AIGC projects.
+  &nbsp;I’m currently learning Next.js full-stack. <br>&nbsp;I’m interested in AIGC projects.
   
-  <h4>I am focusing on:</h4>
+  <h4>&nbsp;I am focusing on:</h4>
   <p align="center">
 <!--   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="js"> -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts">
